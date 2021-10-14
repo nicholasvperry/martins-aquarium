@@ -1,0 +1,29 @@
+.single-fish{
+   display: flex;
+}
+
+.main-list {
+    border: 1px solid black;
+    margin: 1em ;
+    padding: 1em;
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.single-fish {
+    display: flex;
+    margin: 1em;
+    border: 1px solid black;
+}
+
+img{
+    height: auto;
+    width: 20%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
