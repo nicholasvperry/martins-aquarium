@@ -3,6 +3,8 @@ import { Location } from "./Location.js";
 
 export const LocationList = () => {
     const locationContainer = document.querySelector("#LocationList")
+    
+
     const allLocations = useLocation()
 
     let locationHTMLRepresentations = ""

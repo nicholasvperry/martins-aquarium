@@ -1,5 +1,5 @@
 //Locations is where fish were harvested
-const locationCollection = [  
+const locationCollection = [ 
     {
         river: "Ohio River"
     }, 
